@@ -1,0 +1,12 @@
+{
+  "TestCase_id":"3",
+  "Title":"Current weather",
+  "Steps":
+  {
+    "1":"City",
+    "2":"Wind",
+    "3":"Temp",
+
+  },
+  "Expected result":"Current weather"
+}
