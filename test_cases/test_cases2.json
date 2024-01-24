@@ -1,0 +1,12 @@
+{
+  "TestCase_id":"2",
+  "Title":"Amount of videos should reflect on main page",
+  "Steps":
+  {
+    "1":"Go to Upload page",
+    "2":"Upload the video",
+    "3":"Set video name",
+    "5":"Go to the main page"
+  },
+  "Expected result":"Amount of video should reflect on main page"
+}
